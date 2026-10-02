@@ -1,4 +1,5 @@
 # HR Attrition & Workforce Analytics Dashboard
+![Dashboard Preview](dashboard_screenshot.png)
 
 ## Executive Summary
 This project analyzes employee attrition drivers within an organization using SQL and Power BI. The goal is to provide HR leadership with actionable data insights to improve employee retention, reduce turnover costs, and optimize workforce planning.
